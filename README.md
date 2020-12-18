@@ -1,2 +1,1 @@
-# vi
-Vietnamese OmegaT Localisation
+# Vietnamese OmegaT Localisation
