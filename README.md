@@ -1,0 +1,2 @@
+# vi
+Vietnamese OmegaT Localisation
